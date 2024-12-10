@@ -1,5 +1,4 @@
 package EasyProblemsSolutions;
-
 import java.util.Arrays;
 
 public class Challenge_01 {
